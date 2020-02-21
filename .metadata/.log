@@ -77,3 +77,69 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2020-02-21 16:35:27.758
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:22.388
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:22.395
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7f680a9a[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=738)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:22.412
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:22.616
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:34.170
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:34.175
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7f680a9a[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=738)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:34.181
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.317
+!MESSAGE Boot LS startup time from start to initialized: 2130ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.360
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZwmcDkeQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.368
+!MESSAGE subscribing to classpath changes: sts4.classpath.ZwmcDkeQ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.375
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.382
+!MESSAGE subsribers = {sts4.classpath.ZwmcDkeQ=Send Classpath Notifications(1067)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.388
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.394
+!MESSAGE project ppmtool ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.400
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.405
+!MESSAGE Preparing classpath changed notification ppmtool
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.410
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZwmcDkeQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.416
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.457
+!MESSAGE classpath=122 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.466
+!MESSAGE buffering callback sts4.classpath.ZwmcDkeQ ppmtool false 122
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.472
+!MESSAGE executing callback sts4.classpath.ZwmcDkeQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-21 17:11:36.505
+!MESSAGE executing callback sts4.classpath.ZwmcDkeQ SUCCESS [done]
